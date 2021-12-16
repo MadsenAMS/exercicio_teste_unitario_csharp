@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\bin\Debug\net6.0\unitTestExercise.exe
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\bin\Debug\net6.0\unitTestExercise.deps.json
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\bin\Debug\net6.0\unitTestExercise.runtimeconfig.json
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\bin\Debug\net6.0\unitTestExercise.dll
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\bin\Debug\net6.0\ref\unitTestExercise.dll
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\bin\Debug\net6.0\unitTestExercise.pdb
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.AssemblyInfo.cs
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.dll
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\ref\unitTestExercise.dll
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.pdb
+C:\Users\andre\source\repos\DIO_TesteUnitario_CSharp_VS\unitTestExercise\obj\Debug\net6.0\unitTestExercise.genruntimeconfig.cache
